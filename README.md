@@ -10,8 +10,12 @@
 
 At the command prompt, type `nano`
 
-### Test33 Banan
+> Code is like humor. When you have to explain it, it’s bad.
 
-`Cyrus the viruz was here`
-
-` OG Cyrus was here too `
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
