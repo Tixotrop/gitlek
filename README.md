@@ -16,7 +16,7 @@ At the command prompt, type `nano`
   mindmap
   root((Full Stack Developer))
     Backend
-    ::icon(fa fa-book)
+    ::icon(★)
         Node.js
         Graphql
         PostgreSQL
@@ -24,7 +24,7 @@ At the command prompt, type `nano`
         JWT
         Redis
     Frontend
-    ::icon(fa fa-book)
+    ::icon(★)
       HTML
       CSS
         Tailwindcss
@@ -36,7 +36,7 @@ At the command prompt, type `nano`
         Next.js
         Storybook
     DevOps Knowledge
-    ::icon(fa fa-book)
+    ::icon(★)
       Linux Basics
       Basic AWS Services
       Monit
