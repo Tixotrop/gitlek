@@ -15,16 +15,14 @@ At the command prompt, type `nano`
 ```mermaid
   mindmap
   root((Full Stack Developer))
-    Backend
-    ::icon(★)
+    ★ Backend
         Node.js
         Graphql
         PostgreSQL
         RESTful API
         JWT
         Redis
-    Frontend
-    ::icon(★)
+    ★ Frontend
       HTML
       CSS
         Tailwindcss
@@ -35,12 +33,11 @@ At the command prompt, type `nano`
     React
         Next.js
         Storybook
-    DevOps Knowledge
-    ::icon(★)
-      Linux Basics
-      Basic AWS Services
-      Monit
-      Github Actions
-      Ansible
-      Terraform
+    ★ DevOps Knowledge
+        Linux Basics
+        Basic AWS Services
+        Monit
+        Github Actions
+        Ansible
+        Terraform
 ```
