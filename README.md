@@ -14,8 +14,12 @@ At the command prompt, type `nano`
 
 ```mermaid
   graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
+      Git Bash --> Markdown;
+      Markdown --> Frontend;
+      Markdown --> Backend;
+      Frontend --> Backend;
+      Backend --> Frontend;
+      Frontend --> Fullstack;
+      Backend --> Fullstack;
+      Fullstack --> Flexibel Developer;
 ```
