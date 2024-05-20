@@ -13,13 +13,34 @@ At the command prompt, type `nano`
 > Code is like humor. When you have to explain it, it’s bad.
 
 ```mermaid
-  graph TD;
-      Git Bash --> Markdown;
-      Markdown --> Frontend;
-      Markdown --> Backend;
-      Frontend --> Backend;
-      Backend --> Frontend;
-      Frontend --> Fullstack;
-      Backend --> Fullstack;
-      Fullstack --> Flexibel Developer;
+  mindmap
+  root((Full Stack Developer))
+    Backend
+    ::icon(fa fa-book)
+        Node.js
+        Graphql
+        PostgreSQL
+        RESTful API
+        JWT
+        Redis
+    Frontend
+    ::icon(fa fa-book)
+      HTML
+      CSS
+        Tailwindcss
+      Javascript
+    Npm
+    GitHub
+    Git
+    React
+        Next.js
+        Storybook
+    DevOps Knowledge
+    ::icon(fa fa-book)
+      Linux Basics
+      Basic AWS Services
+      Monit
+      Github Actions
+      Ansible
+      Terraform
 ```
