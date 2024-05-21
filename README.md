@@ -10,7 +10,7 @@
 
 At the command prompt, type `nano`
 
-> Code is like humor. When you have to explain it, it’s bad.
+Italicized text is the *cat's meow*.
 
 ```mermaid
   mindmap
