@@ -4,9 +4,9 @@
 
 # gitlek
 
-#### Heder 3
+#### Header 3
 
-##### Heaer 4
+##### Header 4
 
 At the command prompt, type `nano`
 
