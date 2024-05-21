@@ -6,7 +6,7 @@
 
 ***
 
-# gitlek CONFLICT, LET'S GOO !!
+# gitlek CONFLICT, CONFLICTS, LET'S GOO !!
 
 ***
 
