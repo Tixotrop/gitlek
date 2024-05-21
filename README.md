@@ -41,3 +41,5 @@ At the command prompt, type `nano`
         Ansible
         Terraform
 ```
+
+This message is new
