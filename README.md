@@ -1,16 +1,4 @@
-# Still on top of things
-
-### On Top Of Things
-
-# gitlek
-
-#### Heder 3
-
-##### Heaer 4
-
-At the command prompt, type `nano`
-
-> Code is like humor. When you have to explain it, it’s bad.
+Italicized text is the *cat's meow*.
 
 ```mermaid
   mindmap
