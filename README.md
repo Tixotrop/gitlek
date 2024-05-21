@@ -1,12 +1,16 @@
-# Still on top of things
-
+# Still on top of thingsHAHAHAHAHAHA
+HAHAHA
 ***
 
 ### On Top Of Things
 
 ***
 
+<<<<<<< HEAD
 # gitlek EN STOOOOR KONFLIKT!//Peter
+=======
+# gitlek CONFLICT, LET'S GOO !!
+>>>>>>> 070575eb42309b63db8a2bc626cbc9a29e4dfb08
 
 ***
 
