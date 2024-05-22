@@ -6,13 +6,9 @@ HAHAHA
 
 ***
 
-<<<<<<< HEAD
 # gitlek CONFLICT, LET'S GOO !!
-=======
 # gitlek EN STOOOOR KONFLIKT!//Peter
-
 # gitlek CONFLICT, LET'S GOO !!!
->>>>>>> 43fa351 (Hello World)
 
 ***
 
